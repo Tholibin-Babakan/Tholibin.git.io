@@ -1,0 +1,174 @@
+*,
+html {
+  margin: 0;
+  padding: 0;
+}
+
+.div-nav {
+  background-color: black;
+  
+}
+
+.ul-nav {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+} 
+
+.li-nav {
+  list-style-type: none;
+  margin: 5px;
+  padding: 5px;
+}
+
+.a-nav {
+  text-decoration: none;
+  font-size: 15px;
+  color: white;
+}
+
+.div-img {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.img {
+  height: 150px;
+  width: 150px;
+}
+.h2 {
+  font-size: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.mukodimah {
+  font-size: 15px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+.asu {
+  background-color: green;
+}
+
+.div-contact {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.info {
+  font-size: 12px;
+  margin: 2px;
+  padding: 2px;
+}
+
+.div-span {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 5px;
+  padding: 5px;
+}
+
+.wa {
+  font-size: 15px;
+  text-decoration: none;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3px;
+  padding: 3px;
+  color: blue;
+}
+
+.haul {
+  width: 300px;
+  height: 300px;
+  margin: 10px;
+  padding: 10px
+}
+
+.div-haul {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.div-khataman {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.khataman {
+  width: 400px;
+  height: 300px;
+  margin: 10px;
+  padding: 10px;
+}
+
+.div-sejarah {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.img-sejarah {
+  width: 300px;
+  height: 150px;
+}
+
+.paragraf {
+  margin: 8px;
+  padding: 8px
+}
+
+.div-ulama{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.ulama {
+  width: 150px;
+  height: 200px
+}
+
+.div-tulisan {
+  font-size: 15px;
+  margin: 5px;
+  padding: 5px;
+}
+
+.div-marhabanan {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 10px;
+  padding: 10px;
+}
+
+.marhabanan {
+  width: 200px;
+  height: 250px
+}
+
+.marhabanan1 {
+  width: 300px;
+  height: 250px;
+}
+
